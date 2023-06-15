@@ -25,6 +25,7 @@ setup(
     author='akshaybhat',
     author_email='akshaybhat422@gmail.com',
     version='0.0.1',
+    description='Sample package list for building ML projects',
     packages= find_packages(),
     install_requires = get_requirements('requirements.txt')
     
